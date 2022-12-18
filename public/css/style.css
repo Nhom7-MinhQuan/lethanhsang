@@ -1,0 +1,292 @@
+.logo {
+    padding-top: 60px;
+    padding-left: 100px;
+}
+
+.navbar a{
+    padding-top: 80px;
+    padding-bottom: 15px;
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    font-size: small;
+    font-weight: 450;  
+}
+.navbar {
+   padding-left: 60px;
+}
+.navbar li {
+    list-style: none;
+    padding-left: 10px;
+}
+
+.nav-home li {
+    color: white;  
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.nav-home {
+    background-color: #63d7eb;
+}
+
+.banner {
+    padding-top: 30px;
+    padding-left: 180px;
+    padding-bottom: 30px;
+}
+
+.doc {
+    padding-bottom: 30px;
+    text-align: center;
+    color: #63d7eb;
+}
+
+.doc:hover {
+    color:black ;
+}
+
+.bg-content {
+    background-color: #f7f7f7;
+    background-size: cover;
+    padding-bottom: 50px;
+}
+
+.bg-content h1 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 35px;
+    font-weight: normal;
+}
+
+.col-md-4 {
+    padding-left: 115px;
+    margin: 40px -27px;
+}
+
+.info{
+    padding-top: 40px;
+}
+
+.product1{
+    text-align: center;
+}
+
+.product2{
+    text-align: center;
+}
+
+.product3{
+    text-align: center;
+}
+
+.product1 h5{
+    font-size: 17px;
+    font-weight: 480;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.product1 h6 {
+    font-size: 13px;
+    font-weight: 350;
+    margin-top: 25px;
+    margin-left: 38px ;
+    
+}
+
+.product1 button{
+    background-color: #63d7eb;
+    border: #63d7eb;
+    padding: 12px 20px;
+    font-size: 12px;
+    color: white;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.product2 h5 {
+   font-size: 17px;
+   font-weight: 480;
+   margin-top: 30px;
+   margin-left: 55px;
+}
+
+.product2 h6 {
+    font-size: 13px;
+    font-weight: 350;
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 38px;
+   
+}
+
+.product2 button{
+    background-color: #63d7eb;
+    border: #63d7eb;
+    padding: 12px 20px;
+    font-size: 12px;
+    color: white;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.product3 h5 {
+    font-size: 17px;
+    font-weight: 480;
+    margin-top: 30px;
+    margin-left: 50px;
+ }
+ 
+ .product3 h6 {
+    font-size: 13px;
+     font-weight: 350;
+     text-align: center;
+     margin-top: 25px;
+     margin-left: 38px;
+    
+ }
+ 
+ .product3 button{
+     background-color: #63d7eb;
+     border: #63d7eb;
+     padding: 12px 20px;
+     font-size: 12px;
+     color: white;
+     border-radius: 20px;
+     margin-top: 10px;
+     margin-left: 50px;
+ }
+ 
+ 
+ 
+.prg{
+    margin-top: 0px;
+}
+
+
+ .prg0 h5{
+    font-size: 12px;
+    padding-left: 25px;
+ }
+
+ .prg0 p{
+    padding-left: 25px;
+    font-size: 12px;
+ }
+
+ .text h4{
+    margin-left: 30px;
+    padding-top: 40px;
+ }
+
+ .prg1 p{
+    font-size: 12px;
+    margin-left: 30px;
+ }
+
+ .prg1 h6{
+    font-size: 12px;
+    padding-left: 30px;
+ }
+
+ .prg1 button{
+    background-color: #8a8a8a;
+    border: #8a8a8a;
+    color: white;
+    margin-left: 30px;
+    padding: 0px 8px;
+    border-radius: 30px;
+ }
+
+ .prg2 p{
+    font-size: 12px;
+    margin-left: 15px;
+ }
+
+ .prg2 h6{
+    font-size: 12px;
+    padding-left: 15px;
+ }
+
+ .prg2 button{
+    background-color: #8a8a8a;
+    border: #8a8a8a;
+    color: white;
+    margin-left: 15px;
+    padding: 0px 8px;
+    border-radius: 30px;
+ }
+
+ .prg3 p{
+    font-size: 12px;
+    margin-left: 5px;
+ }
+
+ .prg3 h6{
+    font-size: 12px;
+    padding-left: 5px;
+ }
+
+ .prg3 button{
+    background-color: #8a8a8a;
+    border: #8a8a8a;
+    color: white;
+    margin-left: 5px;
+    padding: 0px 8px;
+    border-radius: 30px;
+ }
+
+ .prg4 p{
+    font-size: 12px;
+    margin-left: 5px;
+ }
+
+ .prg4 h6{
+    font-size: 12px;
+    padding-left: 5px;
+ }
+
+ .prg4 button{
+    background-color: #8a8a8a;
+    border: #8a8a8a;
+    color: white;
+    margin-left: 5px;
+    padding: 0px 8px;
+    border-radius: 20px;
+ }
+
+.bg-footer {
+    background-color: #63d7eb;
+    background-size: cover ;
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+
+.name-logo{
+    color: white;
+    font-size: small;
+    font-weight: 350;
+    padding-left: 85px;
+}
+
+.contact{
+    margin-left: 240px;
+}
+
+.contact a{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.contact li{
+    list-style: none;
+    display: inline-block;
+    padding-left: 20px;
+    margin-left: 10px;
+}
+
+
